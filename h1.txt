@@ -1,5 +1,17 @@
 你好
 dfasdfsaf
+<<<<<<< HEAD
 修改
 master agin cheange
+=======
+修
+改
+a
+g
+i
+n
+>>>>>>> dev
 Creating a new branch is quik.
+
+.......
+Creating a new branch is quick and simple
